@@ -1,4 +1,6 @@
-theme = onedark-warmer
+theme = Github Dark
+palette = 6=#a3c8e7
+palette = 14=#a3c8e7
 shell-integration = zsh
 shell-integration-features = no-cursor, sudo, title
 macos-option-as-alt = true
@@ -20,5 +22,3 @@ window-padding-y = 5,0
 adjust-underline-position = 1
 adjust-underline-thickness = 115%
 
-background=#232326
-foreground=#A7AAB0
